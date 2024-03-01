@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Speech Recorder and Processor</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background-color: #f4f4f4;
+        }
+        #logo {
+            max-width: 200px;
+            margin-bottom: 20px;
+        }
+        button {
+            margin: 10px;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        #results {
+            margin-top: 30px;
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            padding: 15px;
+            width: 70%;
+            min-height: 50px;
+            margin: 10px auto;
+            word-break: break-word;
+        }
+    </style>
+</head>
+<body>
+    <img id="logo" src="/static/img/techcarvelogo.png" alt="TechCarve Logo" />
+    <h1>Speech Recorder</h1>
+    <button id="recordButton">Start Recording</button>
+    <button id="pauseButton" style="display: none;">Pause Recording</button>
+    <button id="stopButton" style="display: none;">Stop Recording</button>
+    <div id="results">
+        <h2>Transcript</h2>
+        <p id="transcript">The transcript will appear here...</p>
+        <h2>Summary</h2>
+        <p id="summary">The summary will appear here...</p>
+    </div>
+
+    <script src="static/js/record.js"></script>
+</body>
+</html>

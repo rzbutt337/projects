@@ -1,0 +1,85 @@
+Science Newsfrom research organizations
+Gargling away the 'bad' bacteria in type 2 diabetes
+Date:
+February 14, 2024
+Source:
+Osaka University
+Summary:
+Researchers have found that gargling with an antiseptic mouthwash can reduce so-called 'bad' bacteria in the mouths of patients with type 2 diabetes. Notably, this reduction in bacteria was accompanied by improved blood-sugar control in some patients. Given that the oral diseases caused by these bacteria have been linked to many other serious inflammation-associated diseases, such as cardiovascular disease and Alzheimer's disease, this simple treatment may have widespread effects.
+Share:
+    
+FULL STORY
+More than bad breath, there is growing evidence that ongoing inflammation in the mouth, like with gum disease, is associated with serious diseases such as Alzheimer's disease or type 2 diabetes. Now, researchers from Osaka University have identified an easy way to fight bacteria that might cause such problems.
+
+In a study published this month in Scientific Reports, the researchers reported that when people with type 2 diabetes gargled with an antiseptic mouthwash, the numbers of periodontitis-related bacteria decreased.
+
+
+Excitingly, some patients with reduced bacteria also achieved much better control of their blood sugar, hinting at promising future clinical applications.
+
+"There are three highly virulent bacterial species that are linked to periodontitis, or diseases of the tissues surrounding the teeth," explains lead author of the study Saaya Matayoshi.
+
+"We decided to see if we could reduce these three species -- Porphyromonas gingivalis, Treponema denticola, and Tannerella forsythia -- in patients with type 2 diabetes using a mouthwash containing the antiseptic chlorhexidine gluconate."
+
+To do this, the researchers took monthly or bimonthly saliva and blood samples from 173 patients over an entire year.
+
+With the saliva, the researchers noted the presence or absence of the three bacterial species, and with the blood samples, they measured HbA1c levels as a marker of blood-sugar control.
+
+Importantly, for the first 6 months of the study, the patients gargled with water, whereas for the second 6 months they gargled with the antiseptic mouthwash.
+
+In this way, the research team could see whether gargling itself was effective for reducing bacteria, or whether mouthwash was more effective.
+
+"We were unsurprised to see that gargling with water had no effects on bacterial species or HbA1c levels," explains Kazuhiko Nakano, senior author of the study.
+
+"However, there was an overall reduction in bacterial species when the patients switched to mouthwash, as long as they were gargling at least twice a day."
+
+
+The researchers also found that, although there were no overall changes in HbA1c levels when patients gargled with the antiseptic mouthwash, there appeared to be large variations in individual responses.
+
+For example, when they split the group into younger and older patients, younger patients had greater reductions in bacterial species and significantly better blood-sugar control with the mouthwash compared with water.
+
+Given that poor oral health is linked to serious disease, simple methods to improve oral hygiene have important ramifications. If researchers can identify patients who are likely to respond well to antiseptic mouthwash, this easy-to-use treatment may improve the lives of people with periodontitis-linked diseases such as diabetes, dementia, cardiovascular disease, and respiratory tract infections.
+
+
+RELATED TOPICS
+Health & Medicine
+Diabetes
+Dentistry
+Wounds and Healing
+Diseases and Conditions
+Mind & Brain
+Dementia
+Alzheimer's
+Stroke
+Multiple Sclerosis
+RELATED TERMS
+Bacteria
+Insulin
+South Beach diet
+Alzheimer's disease
+Tropical disease
+Microorganism
+Diabetic diet
+Honey
+Story Source:
+
+Materials provided by Osaka University. Note: Content may be edited for style and length.
+
+Journal Reference:
+
+Saaya Matayoshi, Fumikazu Tojo, Yuto Suehiro, Makoto Okuda, Misato Takagi, Marin Ochiai, Maika Kadono, Yusuke Mikasa, Rena Okawa, Ryota Nomura, Yoshito Itoh, Naoto Itoh, Kazuhiko Nakano. Effects of mouthwash on periodontal pathogens and glycemic control in patients with type 2 diabetes mellitus. Scientific Reports, 2024; 14 (1) DOI: 10.1038/s41598-024-53213-x
+Cite This Page:
+MLA
+APA
+Chicago
+Osaka University. "Gargling away the 'bad' bacteria in type 2 diabetes." ScienceDaily. ScienceDaily, 14 February 2024. <www.sciencedaily.com/releases/2024/02/240214122546.htm>.
+
+Explore Morefrom ScienceDaily
+RELATED STORIES
+Pathogenic Bacteria Use a Sugar in the Intestinal Mucus Layer to Infect the Gut, Study Shows
+July 3, 2023 — A new study shows the sugar sialic acid, which makes up part of the protective intestinal mucus layer, fuels disease-causing bacteria in the gut. The findings suggest a potential treatment target for ...
+Helping 'Good' Gut Bacteria and Clearing out the 'Bad' -- All in One Treatment
+June 21, 2023 — Probiotics can help maintain a healthy gut microbiome or restore populations of 'good bacteria' after a heavy course of antibiotics. But now, they could also be used as an effective treatment ...
+Phage Therapy Shows Promise for Alcoholic Liver Disease
+Nov. 13, 2019 — Researchers linked a gut bacteria toxin to worse clinical outcomes in patients with alcoholic liver disease, and discovered that treatment with bacteriophages clears the bacteria and eliminates the ...
+Mouthwash Use Could Inhibit Benefits of Exercise
+Sep. 3, 2019 — Scientists have shown that the blood pressure-lowering effect of exercise is significantly reduced when people rinse their mouths with antibacterial mouthwash, rather than water - showing the ...
